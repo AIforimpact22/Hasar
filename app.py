@@ -14,7 +14,7 @@ elif selected_page == "Images":
     st.markdown(
         '<h1 style="text-align:center;">Images</h1>'
         '<p style="text-align:center;">Click the link below to visit the images repository:</p>'
-        '<div style="text-align:center;"><a href="https://github.com/Hakari-Bibani/photo/tree/main/images" target="_blank" style="font-size:20px; color:#007bff;">'
+        '<div style="text-align:center;"><a href="https://github.com/AIforimpact22/photos/tree/main/images" target="_blank" style="font-size:20px; color:#007bff;">'
         'Open Images on GitHub</a></div>',
         unsafe_allow_html=True
     )
